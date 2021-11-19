@@ -1,0 +1,7 @@
+**/target/classes/
+**/bin/
+*.iml
+.DS_Store
+.idea
+.gitignore.swp
+*/out/
