@@ -9,6 +9,7 @@ class TestFor60066exp011 {
 
     static void main(String[] args) {
 
+        Closure closure;
 
         List list=new ArrayList()
         list.add("abc")
@@ -26,6 +27,8 @@ class TestFor60066exp011 {
             String serverName = it
             println serverName
         }
+
+
 
 
         List<String> serverNames=new ArrayList<>()
