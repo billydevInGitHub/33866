@@ -1,4 +1,4 @@
-package billydev.TestFor60066exp013_list_cding_groovy_collection
+package billydev.TestFor60066exp013_list_coding_groovy_collection
 
 
 class TestCollection {

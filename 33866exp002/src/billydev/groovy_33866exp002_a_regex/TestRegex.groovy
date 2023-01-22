@@ -1,4 +1,4 @@
-package billydev.groovy_33866exp002_a
+package billydev.groovy_33866exp002_a_regex
 
 class TestRegex {
 
