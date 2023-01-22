@@ -1,0 +1,4 @@
+package billydev.groovy_33866exp002_b_replaceSubStringInLongString
+
+class ReplaceSubStringWithLongString {
+}
