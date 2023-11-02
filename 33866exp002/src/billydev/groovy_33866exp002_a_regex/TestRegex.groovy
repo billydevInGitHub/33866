@@ -10,5 +10,7 @@ class TestRegex {
         println "parallel-integration-19c-develop" ==~  /${jobPrefix}-(?!19c).*${jobSuffix}/
         println "parallel-integration-19c-develop" ==~  /${jobPrefix}-(?!19c).*${jobSuffix}/
         println "parallel-integration-develop" ==~  /${jobPrefix}-(?!19c).*${jobSuffix}/
+
+        //test commit
     }
 }
